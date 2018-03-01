@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Class-Path: mysql-connector-java-5.1.21.jar jackson-annotations-2.7.4.
+ jar slf4j-api-1.7.13.jar jboss-logging-3.3.0.Final.jar snakeyaml-1.16
+ .jar classmate-1.1.0.jar spring-beans-4.2.4.RELEASE.jar spring-tx-4.2
+ .4.RELEASE.jar mybatis-spring-boot-autoconfigure-1.1.1.jar validation
+ -api-1.1.0.Final.jar mybatis-spring-boot-starter-1.1.1.jar aopallianc
+ e-1.0.jar logback-classic-1.1.3.jar spring-webmvc-4.2.4.RELEASE.jar s
+ pring-expression-4.2.4.RELEASE.jar tomcat-embed-core-8.0.30.jar log4j
+ -over-slf4j-1.7.13.jar jul-to-slf4j-1.7.13.jar tomcat-jdbc-8.0.30.jar
+  spring-boot-starter-logging-1.3.2.RELEASE.jar spring-boot-starter-we
+ b-1.3.2.RELEASE.jar logback-core-1.1.3.jar spring-boot-starter-tomcat
+ -1.3.2.RELEASE.jar log4j-1.2.17.jar tomcat-embed-websocket-8.0.30.jar
+  spring-boot-starter-1.3.2.RELEASE.jar spring-context-4.2.4.RELEASE.j
+ ar mybatis-3.4.0.jar spring-boot-1.3.2.RELEASE.jar hibernate-validato
+ r-5.2.2.Final.jar spring-boot-starter-jdbc-1.3.2.RELEASE.jar jcl-over
+ -slf4j-1.7.13.jar spring-web-4.2.4.RELEASE.jar spring-boot-autoconfig
+ ure-1.3.2.RELEASE.jar mybatis-spring-1.3.0.jar tomcat-embed-logging-j
+ uli-8.0.30.jar tomcat-juli-8.0.30.jar spring-core-4.2.4.RELEASE.jar s
+ pring-boot-starter-validation-1.3.2.RELEASE.jar tomcat-embed-el-8.0.3
+ 0.jar spring-jdbc-4.2.4.RELEASE.jar jackson-core-2.7.4.jar jackson-da
+ tabind-2.7.4.jar spring-aop-4.2.4.RELEASE.jar
+Main-Class: com.example.Application
+
